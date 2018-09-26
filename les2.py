@@ -1,3 +1,4 @@
+# НЕ МОЙ КОД, НО ПУСТЬ ОСТАНЕТСЯ 
 import math as mat
 
 print('input number a=', end='')
